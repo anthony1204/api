@@ -1,1 +1,2 @@
-broadcast "hi"
+every second:
+  broadcast "hi"
