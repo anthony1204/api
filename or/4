@@ -1,0 +1,4 @@
+command /nanc <text>:
+    trigger:
+        kill player
+        send "haha"
