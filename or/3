@@ -1,0 +1,5 @@
+command /nanc <text>:
+    trigger:
+        set the display name of the player to arg-1
+        set tablist name of player to arg-1
+        send "ok"
